@@ -1,7 +1,7 @@
 # Chuanqu/传趣
 一款开源中文字体基于Stick、游趣体字体衍生、修改，字形偏向于旧字形，风格俏皮、可爱。
 ## 简介
-stick字体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体。因为原版字体Stick支持字形较少，不能满足日常中文环境使用，因此[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)应运而生，但是本人萌生了旧字形化的念头，因此本人开发此项目。
+stick字体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体。因为原版字体Stick支持字形较少，不能满足日常中文（简繁体）环境使用，因此简体中文版[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)应运而生，但本人萌生了旧字形化的念头，因此本人开发此项目，并补充繁体字。
 
 ## 预览
 ![範例](https://github.com/Steve-Yuu/Chuanqu/blob/main/c1.PNG)
@@ -34,4 +34,5 @@ stick字体因笔形像笔杆一样以直线设计，而被视为一款既可爱
 
 ## 鸣谢 
  - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体；([开发者 GitHub 主页](https://github.com/fontworks-fonts/))  
- - [@Des-Magmeta](https://github.com/Des-Magmeta)等为字形设计提供指导以及提供字图
+ - [@Des-Magmeta](https://github.com/Des-Magmeta)提供Stick衍生的简体中文版[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)
+ - [@Des-Magmeta](https://github.com/Des-Magmeta)提供字形设计提供指导以及提供字图
