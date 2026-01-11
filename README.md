@@ -4,6 +4,10 @@
 stick字体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体。因为原版字体Stick支持字形较少，不能满足日常中文环境使用，因此[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)应运而生，但是本人萌生了旧字形化的念头，因此本人开发此项目。
 
 ## 预览
+![範例](https://github.com/Steve-Yuu/Chuanqu/blob/main/c1.PNG)
+![範例](https://github.com/Steve-Yuu/Chuanqu/blob/main/c2.PNG)
+![範例](https://github.com/Steve-Yuu/Chuanqu/blob/main/c3.PNG)
+
 
 ## 字符集
 - [x] 繁体常用4808
