@@ -3,7 +3,7 @@
 
 一款開源中文字體基於Stick、遊趣體字體衍生、修改，字形偏向於舊字形，風格俏皮、可愛。
 ## 簡介
-stick字體因筆形像筆桿一樣以直線設計，而被視為一款既可愛調皮，亦有田園寫意風格的字體。因為原版字體Stick支援字形較少，不能滿足日常中文環境使用，因此簡體中文版[「遊趣體」](https://github.com/Des-Magmeta/ChildFunSans)應運而生，但本人萌生了舊字形化的念頭，因此本人開坑了這個項目，並為其補充繁體字，改傳承字形。
+stick字體因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調皮，亦有田園寫意風格的字體。因爲原版字體Stick支援字形較少，不能滿足日常中文環境使用，因此簡體中文版[「遊趣體」](https://github.com/Des-Magmeta/ChildFunSans)應運而生，但本人萌生了舊字形化的念頭，因此本人開坑了這個項目，並爲其補充繁體字，改傳承字形。
 
 ## 預覽
 ![範例](https://github.com/Steve-Yuu/Chuanqu/blob/main/c1.PNG)
@@ -31,7 +31,7 @@ stick字體因筆形像筆桿一樣以直線設計，而被視為一款既可愛
  - 這款字體可以自由修改、改造，製作衍生字體。修改或改造後的字體也必須同樣以 [SIL OFL 1.1](https://openfontlicense.org) 公開。 
  ### 限制 
  - 在製作衍生字體時，字體名稱不可使用原有字體的「保留名稱」。本字體保留名稱「傳趣」「傳趣」「Chuanqu」，基於本字體二次衍生的字體，名稱不可出現「傳趣」「傳趣」「Chuanqu」字樣；而在沒有對字體原始程式碼進行修改的情況下，重新編譯出來的字體，可以繼續使用本字體的保留名稱。 
- - 根據 [SIL Open Font License 1.1](https://openfontlicense.org)「許可與條件」中第 1 條的規定， **禁止單獨出售字體檔(OTF/TTF檔)的行為。** 
+ - 根據 [SIL Open Font License 1.1](https://openfontlicense.org)「許可與條件」中第 1 條的規定， **禁止單獨出售字體檔(OTF/TTF檔)的行爲。** 
  - 該字體不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授權許可下發行。
 
 ## 鳴謝 
