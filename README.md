@@ -15,7 +15,7 @@ stick字体因笔形像笔杆一样以直线设计，而被视为一款既可爱
 - [x] 繁体常用4808
 - [x] big5一级字
 - [x] GB2312、《通用规范汉字表》简繁体
-- [ ] 国际表意文字核心（iicore字符）
+- [x] 国际表意文字核心（iicore字符）
 - [ ] 按需添加一些来自[「YShi笔书」](https://github.com/Steve-Yuu/YshiPen-Shuti)、霞鹜文楷TC的字符
 
 ## 注意事项
