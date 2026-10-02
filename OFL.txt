@@ -1,4 +1,5 @@
-﻿Copyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui).
+﻿Copyright 2025-2026 Chuan Qu Project Authors (https://github.com/Steve-Yuu/Chuanqu)  
+Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick)  
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
